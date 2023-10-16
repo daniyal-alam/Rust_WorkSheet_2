@@ -1,0 +1,1 @@
+C:\Users\DANIYAL\OneDrive\Desktop\RUST\worksheet_two\src\Q10\target\debug\Q10.exe: C:\Users\DANIYAL\OneDrive\Desktop\RUST\worksheet_two\src\Q10\src\main.rs C:\Users\DANIYAL\OneDrive\Desktop\RUST\worksheet_two\src\Q10\src\utils.rs
